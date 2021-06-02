@@ -13,6 +13,7 @@
 
 <h4>User Profile</h4>
 
+<li> User want to see all the Posts</li>
 <li>See my own posts</li> 
 <li>Have the option to update the posts</li> 
 <li>Have the option to delete the posts </li>
