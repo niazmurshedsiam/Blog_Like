@@ -4,9 +4,10 @@
 
 
 <a href="https://blog-like-24ae00.netlify.app/">Live Site</a>
+</hr>
 <a href="https://github.com/niazmurshedsiam/Blog_Like">Git-Hub Link</a>
 
-#Project Info:
+# Project Info:
 
 <li> User want to see all the Posts</li>
 
